@@ -20,7 +20,7 @@
 			"name": "Converging shoulder press",
 			"seat": 7,
 			"weight": 14,
-			"times": 3,
+			"times": 4,
 			"other": " ",
 			"extra": " "
 		},
@@ -29,7 +29,7 @@
 			"seat": 6,
 			"weight": 36,
 			"extra": 1.1,
-			"times": 2,
+			"times": 3,
 			"other": " "
 		},
 		{
@@ -62,14 +62,14 @@
 			"other": 2,
 			"weight": 39,
 			"extra": 2.3,
-			"times": 3
+			"times": 4
 		},
 		{
 			"name": "Lat pull",
 			"weight": 32,
 			"extra": 2.3,
 			"seat": 1,
-			"times": 2,
+			"times": 4,
 			"other": " "
 		},
 		{
