@@ -6,7 +6,7 @@
 			"other": 4,
 			"weight": 18,
 			"extra": 3.3,
-			"times": 4
+			"times": 5
 		},
 		{
 			"name": "Leg press",
@@ -29,7 +29,7 @@
 			"seat": 6,
 			"weight": 36,
 			"extra": 1.1,
-			"times": 3,
+			"times": 6,
 			"other": " "
 		},
 		{
@@ -45,7 +45,7 @@
 			"seat": 4,
 			"weight": 18,
 			"extra": 2.3,
-			"times": 2,
+			"times": 3,
 			"other": " "
 		},
 		{
@@ -53,7 +53,7 @@
 			"seat": 4,
 			"weight": 18,
 			"extra": 2.3,
-			"times": 4,
+			"times": 6,
 			"other": " "
 		},
 		{
@@ -62,7 +62,7 @@
 			"other": 2,
 			"weight": 39,
 			"extra": 2.3,
-			"times": 4
+			"times": 6
 		},
 		{
 			"name": "Lat pull",
