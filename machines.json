@@ -61,7 +61,7 @@
 			"seat": 7,
 			"other": 2,
 			"weight": 39,
-			"extra": 2.3,
+			"extra": 4.6,
 			"times": 10
 		},
 		{
@@ -100,7 +100,7 @@
 			"name": "Seated triceps press",
 			"seat": 5,
 			"weight": 27,
-			"times": 3,
+			"times": 4,
 			"extra": "2.2",
 			"other": " "
 		}
