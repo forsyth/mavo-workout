@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Diverging seated row",
-			"seat": 4,
+			"seat": "2 ",
 			"weight": 18,
 			"extra": 2.3,
 			"times": 5,
