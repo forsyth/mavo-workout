@@ -53,7 +53,7 @@
 			"seat": 4,
 			"weight": 18,
 			"extra": 4.6,
-			"times": 24,
+			"times": 25,
 			"other": " "
 		},
 		{
@@ -62,7 +62,7 @@
 			"other": 2,
 			"weight": 45,
 			"extra": "4.6",
-			"times": 26
+			"times": 27
 		},
 		{
 			"name": "Lat pull",
