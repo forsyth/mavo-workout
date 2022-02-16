@@ -13,87 +13,104 @@
 			"seat": 5,
 			"weight": 39,
 			"times": 10,
-			"extra": "2.3"
+			"extra": "2.3",
+			"other": " "
 		},
 		{
 			"name": "Converging shoulder press",
 			"seat": 7,
 			"weight": 14,
-			"times": 19
+			"times": 20,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Abs crunch",
 			"seat": 6,
 			"weight": 36,
 			"extra": 1.1,
-			"times": 31
+			"times": 31,
+			"other": " "
 		},
 		{
 			"name": "Triceps press",
 			"seat": 3,
 			"other": 2,
 			"weight": 36,
-			"times": 0
+			"times": 0,
+			"extra": " "
 		},
 		{
 			"name": "Diverging seated row",
 			"seat": "2",
 			"weight": 18,
 			"extra": 2.3,
-			"times": 7
+			"times": 7,
+			"other": " "
 		},
 		{
 			"name": "Converging chest press",
 			"seat": 4,
 			"weight": 18,
 			"extra": 4.6,
-			"times": 30
+			"times": 30,
+			"other": " "
 		},
 		{
 			"name": "Back extension",
 			"seat": 7,
 			"other": 2,
 			"weight": 52,
-			"times": 30
+			"times": 30,
+			"extra": " "
 		},
 		{
 			"name": "Lat pull",
 			"weight": 32,
 			"extra": 2.3,
 			"seat": 1,
-			"times": 17
+			"times": 17,
+			"other": " "
 		},
 		{
 			"name": "Arm curl",
 			"seat": 4,
 			"weight": 14,
 			"times": 19,
-			"extra": "2.2"
+			"extra": "2.2",
+			"other": " "
 		},
 		{
 			"name": "Triceps extension",
 			"seat": 4,
 			"weight": 27,
-			"times": 5
+			"times": 5,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Leg extension",
 			"times": 4,
 			"seat": 5,
-			"weight": 27
+			"weight": 27,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Seated triceps press",
 			"seat": 3,
 			"weight": 27,
 			"times": 7,
-			"extra": "2.2"
+			"extra": "2.2",
+			"other": " "
 		},
 		{
 			"name": "Calf press",
 			"seat": "4",
 			"weight": "39",
-			"times": 2
+			"times": 2,
+			"other": " ",
+			"extra": " "
 		}
 	],
 	"visitDates": [
