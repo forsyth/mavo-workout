@@ -29,7 +29,7 @@
 			"seat": 6,
 			"weight": 36,
 			"extra": 2.2,
-			"times": 35,
+			"times": 37,
 			"other": " "
 		},
 		{
@@ -76,7 +76,7 @@
 			"name": "Arm curl",
 			"seat": 4,
 			"weight": 14,
-			"times": 20,
+			"times": 21,
 			"extra": "2.2",
 			"other": " "
 		},
