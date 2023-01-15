@@ -12,8 +12,9 @@
 			"name": "Leg press",
 			"seat": 5,
 			"weight": 45,
-			"times": 21,
-			"other": " "
+			"times": 22,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Converging shoulder press",
