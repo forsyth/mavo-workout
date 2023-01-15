@@ -52,8 +52,9 @@
 			"name": "Converging chest press",
 			"seat": 4,
 			"weight": 32,
-			"times": 53,
-			"other": " "
+			"times": 54,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Back extension",
