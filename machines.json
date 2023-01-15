@@ -4,9 +4,8 @@
 			"name": "Pec fly",
 			"seat": 6,
 			"other": 5,
-			"weight": 27,
-			"times": 63,
-			"extra": "1.1"
+			"weight": 32,
+			"times": 63
 		},
 		{
 			"name": "Leg press",
