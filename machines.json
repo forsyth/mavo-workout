@@ -100,9 +100,17 @@
 			"name": "Calf press",
 			"seat": "4",
 			"weight": "39",
-			"times": 2,
+			"times": 3,
 			"other": " ",
 			"extra": " "
+		},
+		{
+			"name": "Abs crunch ",
+			"seat": "6",
+			"other": " ",
+			"weight": "42",
+			"extra": " ",
+			"times": 70
 		}
 	],
 	"visitDates": [
