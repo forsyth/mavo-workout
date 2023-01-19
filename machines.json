@@ -25,18 +25,10 @@
 			"extra": " "
 		},
 		{
-			"name": "Abs crunch",
-			"seat": 6,
-			"weight": 36,
-			"extra": 3.3,
-			"times": 68,
-			"other": " "
-		},
-		{
 			"name": "Triceps press",
 			"seat": 3,
 			"other": 2,
-			"weight": 36,
+			"weight": 41,
 			"times": 1,
 			"extra": " "
 		},
