@@ -75,10 +75,10 @@
 		{
 			"name": "Triceps extension",
 			"seat": 4,
-			"weight": 32,
+			"weight": 36,
 			"times": 11,
 			"other": " ",
-			"extra": " "
+			"extra": "2.3"
 		},
 		{
 			"name": "Leg extension",
