@@ -44,7 +44,7 @@
 			"name": "Converging chest press",
 			"seat": 4,
 			"weight": 39,
-			"times": 68,
+			"times": 69,
 			"other": " ",
 			"extra": " "
 		},
@@ -53,7 +53,7 @@
 			"seat": 7,
 			"other": 2,
 			"weight": 79,
-			"times": 72,
+			"times": 73,
 			"extra": " "
 		},
 		{
@@ -108,7 +108,7 @@
 			"name": "Abs crunch ",
 			"seat": "6",
 			"weight": "50",
-			"times": 85,
+			"times": 86,
 			"other": " ",
 			"extra": " "
 		}
