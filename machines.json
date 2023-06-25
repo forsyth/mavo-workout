@@ -119,6 +119,14 @@
 			"weight": "45",
 			"extra": " ",
 			"times": 1
+		},
+		{
+			"name": "Hip abduction ",
+			"seat": "1",
+			"other": " ",
+			"weight": "45",
+			"extra": " ",
+			"times": 1
 		}
 	],
 	"visitDates": [
