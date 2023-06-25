@@ -111,6 +111,14 @@
 			"times": 89,
 			"other": " ",
 			"extra": " "
+		},
+		{
+			"name": "Hip adduction ",
+			"seat": "5",
+			"other": " ",
+			"weight": "45",
+			"extra": " ",
+			"times": 1
 		}
 	],
 	"visitDates": [
