@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Leg extension",
-			"times": 5,
+			"times": 6,
 			"seat": 5,
 			"weight": 27,
 			"other": " ",
@@ -92,7 +92,7 @@
 			"name": "Seated triceps press",
 			"seat": 3,
 			"weight": 36,
-			"times": 12,
+			"times": 13,
 			"other": " ",
 			"extra": " "
 		},
