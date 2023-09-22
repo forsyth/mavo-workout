@@ -12,7 +12,7 @@
 			"name": "Leg press",
 			"seat": 5,
 			"weight": 59,
-			"times": 35,
+			"times": 36,
 			"other": " ",
 			"extra": " "
 		},
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Leg extension",
-			"times": 7,
+			"times": 8,
 			"seat": 5,
 			"weight": 27,
 			"other": " ",
