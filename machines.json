@@ -108,7 +108,7 @@
 			"name": "Abs crunch ",
 			"seat": "6",
 			"weight": "50",
-			"times": 100,
+			"times": 101,
 			"other": " ",
 			"extra": " "
 		},
@@ -118,7 +118,7 @@
 			"other": " ",
 			"weight": "45",
 			"extra": " ",
-			"times": 4
+			"times": 5
 		},
 		{
 			"name": "Hip abduction ",
