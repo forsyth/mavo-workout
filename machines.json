@@ -29,7 +29,7 @@
 			"seat": 3,
 			"other": 2,
 			"weight": 41,
-			"times": 4,
+			"times": 5,
 			"extra": " "
 		},
 		{
@@ -76,7 +76,7 @@
 			"name": "Triceps extension",
 			"seat": 4,
 			"weight": 36,
-			"times": 15,
+			"times": 16,
 			"other": " ",
 			"extra": "2.3"
 		},
