@@ -12,120 +12,96 @@
 			"name": "Leg press",
 			"seat": 5,
 			"weight": 59,
-			"times": 46,
-			"other": " ",
-			"extra": " "
+			"times": 46
 		},
 		{
 			"name": "Converging shoulder press",
 			"seat": 7,
 			"weight": 29,
-			"times": 114,
-			"other": " ",
-			"extra": " "
+			"times": 114
 		},
 		{
 			"name": "Triceps press",
 			"seat": 3,
 			"other": 2,
 			"weight": 41,
-			"times": 5,
-			"extra": " "
+			"times": 5
 		},
 		{
 			"name": "Diverging seated row",
 			"seat": "2",
 			"weight": 18,
 			"extra": 2.3,
-			"times": 7,
-			"other": " "
+			"times": 7
 		},
 		{
 			"name": "Converging chest press",
 			"seat": 4,
 			"weight": 39,
-			"times": 105,
-			"other": " ",
-			"extra": " "
+			"times": 105
 		},
 		{
 			"name": "Back extension",
 			"seat": 7,
 			"other": 2,
 			"weight": 79,
-			"times": 107,
-			"extra": " "
+			"times": 107
 		},
 		{
 			"name": "Lat pull",
 			"weight": 32,
 			"extra": 2.3,
 			"seat": 1,
-			"times": 29,
-			"other": " "
+			"times": 29
 		},
 		{
 			"name": "Arm curl",
 			"seat": 4,
 			"weight": 32,
-			"times": 65,
-			"other": " ",
-			"extra": " "
+			"times": 65
 		},
 		{
 			"name": "Triceps extension",
 			"seat": 4,
 			"weight": 36,
 			"times": 18,
-			"other": " ",
 			"extra": "2.3"
 		},
 		{
 			"name": "Leg extension",
 			"times": 8,
 			"seat": 5,
-			"weight": 27,
-			"other": " ",
-			"extra": " "
+			"weight": 27
 		},
 		{
 			"name": "Seated triceps press",
 			"seat": 3,
 			"weight": 36,
-			"times": 14,
-			"other": " ",
-			"extra": " "
+			"times": 14
 		},
 		{
 			"name": "Calf press",
 			"seat": "4",
 			"weight": "39",
-			"times": 3,
-			"other": " ",
-			"extra": " "
+			"times": 3
 		},
 		{
 			"name": "Abs crunch ",
 			"seat": "6",
 			"weight": "50",
 			"times": 125,
-			"other": " ",
-			"extra": " "
+			"extra": "2.5"
 		},
 		{
 			"name": "Hip adduction ",
 			"seat": "5",
-			"other": " ",
 			"weight": "45",
-			"extra": " ",
 			"times": 10
 		},
 		{
 			"name": "Hip abduction ",
 			"seat": "1",
-			"other": " ",
 			"weight": "45",
-			"extra": " ",
 			"times": 5
 		}
 	],
