@@ -12,97 +12,121 @@
 			"name": "Leg press",
 			"seat": 5,
 			"weight": 59,
-			"times": 46
+			"times": 46,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Converging shoulder press",
 			"seat": 7,
 			"weight": 29,
-			"times": 114
+			"times": 115,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Triceps press",
 			"seat": 3,
 			"other": 2,
 			"weight": 41,
-			"times": 5
+			"times": 5,
+			"extra": " "
 		},
 		{
 			"name": "Diverging seated row",
 			"seat": "2",
 			"weight": 18,
 			"extra": 2.3,
-			"times": 7
+			"times": 7,
+			"other": " "
 		},
 		{
 			"name": "Converging chest press",
 			"seat": 4,
 			"weight": 39,
-			"times": 105
+			"times": 105,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Back extension",
 			"seat": 7,
 			"other": 2,
 			"weight": 79,
-			"times": 107
+			"times": 107,
+			"extra": " "
 		},
 		{
 			"name": "Lat pull",
 			"weight": 32,
 			"extra": 2.3,
 			"seat": 1,
-			"times": 29
+			"times": 29,
+			"other": " "
 		},
 		{
 			"name": "Arm curl",
 			"seat": 4,
 			"weight": 32,
-			"times": 65
+			"times": 65,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Triceps extension",
 			"seat": 4,
 			"weight": 36,
 			"times": 18,
-			"extra": "2.3"
+			"extra": "2.3",
+			"other": " "
 		},
 		{
 			"name": "Leg extension",
 			"times": 8,
 			"seat": 5,
-			"weight": 27
+			"weight": 27,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Seated triceps press",
 			"seat": 3,
 			"weight": 36,
-			"times": 14
+			"times": 14,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Calf press",
 			"seat": "4",
 			"weight": "39",
-			"times": 3
+			"times": 3,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Abs crunch ",
 			"seat": "6",
 			"weight": "50",
 			"times": 125,
-			"extra": "2.5"
+			"extra": "2.5",
+			"other": " "
 		},
 		{
 			"name": "Hip adduction ",
 			"seat": "5",
 			"weight": "45",
-			"times": 10
+			"times": 10,
+			"other": " ",
+			"extra": " "
 		},
 		{
 			"name": "Hip abduction ",
 			"seat": "1",
 			"weight": "45",
-			"times": 5
+			"times": 5,
+			"other": " ",
+			"extra": " "
 		}
 	],
 	"visitDates": [
