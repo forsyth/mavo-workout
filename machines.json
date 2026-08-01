@@ -12,120 +12,96 @@
 			"name": "Leg press",
 			"seat": 5,
 			"weight": 59,
-			"times": 54,
-			"other": " ",
-			"extra": " "
+			"times": 54
 		},
 		{
 			"name": "Converging shoulder press",
 			"seat": 7,
 			"weight": 29,
-			"times": 132,
-			"other": " ",
-			"extra": " "
+			"times": 132
 		},
 		{
 			"name": "Triceps press",
 			"seat": 3,
 			"other": 2,
 			"weight": 41,
-			"times": 7,
-			"extra": " "
+			"times": 7
 		},
 		{
 			"name": "Diverging seated row",
 			"seat": "2",
 			"weight": 18,
 			"extra": 2.3,
-			"times": 8,
-			"other": " "
+			"times": 8
 		},
 		{
 			"name": "Converging chest press",
 			"seat": 4,
 			"weight": 39,
-			"times": 122,
-			"other": " ",
-			"extra": " "
+			"times": 122
 		},
 		{
 			"name": "Back extension",
 			"seat": 7,
 			"other": 2,
 			"weight": 79,
-			"times": 127,
-			"extra": " "
+			"times": 127
 		},
 		{
 			"name": "Lat pull",
 			"weight": 32,
 			"extra": 2.3,
 			"seat": 1,
-			"times": 31,
-			"other": " "
+			"times": 31
 		},
 		{
 			"name": "Arm curl",
 			"seat": 4,
 			"weight": 32,
-			"times": 68,
-			"other": " ",
-			"extra": " "
+			"times": 68
 		},
 		{
 			"name": "Triceps extension",
 			"seat": 4,
 			"weight": 36,
 			"times": 18,
-			"extra": "2.3",
-			"other": " "
+			"extra": "2.3"
 		},
 		{
 			"name": "Leg extension",
 			"times": 8,
 			"seat": 5,
-			"weight": 27,
-			"other": " ",
-			"extra": " "
+			"weight": 27
 		},
 		{
 			"name": "Seated triceps press",
 			"seat": 3,
 			"weight": 36,
-			"times": 14,
-			"other": " ",
-			"extra": " "
+			"times": 14
 		},
 		{
 			"name": "Calf press",
 			"seat": "4",
 			"weight": "39",
-			"times": 4,
-			"other": " ",
-			"extra": " "
+			"times": 4
 		},
 		{
 			"name": "Abs crunch ",
 			"seat": "6",
 			"weight": "59",
-			"times": 143,
-			"other": " "
+			"times": 143
 		},
 		{
 			"name": "Hip adduction ",
 			"seat": "5",
 			"weight": "45",
-			"times": 15,
-			"other": " ",
-			"extra": " "
+			"times": 15
 		},
 		{
 			"name": "Hip abduction ",
 			"seat": "1",
 			"weight": "45",
-			"times": 5,
-			"other": " ",
-			"extra": " "
+			"times": 5
 		}
 	],
 	"visitDates": [
